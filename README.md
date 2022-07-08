@@ -1,4 +1,4 @@
-# Console Applications built using C
+# Programs built using C
 _These applications are the projects to comply with my programming subject in college._
 
 ## Applications
